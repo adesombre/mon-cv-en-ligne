@@ -1,0 +1,35 @@
+h1, h2{
+    text-align: center;
+}
+p{
+    margin: 0px;
+}
+hr{
+    border-color:lightskyblue;
+}
+.contenu{
+    width: 550px; 
+    margin: 20 auto;
+    
+     
+}
+.details {
+    
+    height: 150px;
+}
+div.details img {
+    height: 150px;
+    float:left;
+    border-radius: 50%;
+}
+.liste_details{
+    
+    list-style-type: none;
+    margin-top:25px
+    margin-left:
+ 
+}
+.cv-section {
+    padding-bottom:10px ;
+    
+}
